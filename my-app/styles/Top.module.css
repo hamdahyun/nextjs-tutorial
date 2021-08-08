@@ -1,0 +1,11 @@
+.content {
+  display: flex;
+  padding-top: 20px;
+}
+.box {
+  flex: 100px 0 0;
+}
+.logo {
+  display: block;
+  width: 80px;
+}
