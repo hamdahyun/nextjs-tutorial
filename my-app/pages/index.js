@@ -23,7 +23,7 @@ export default function Home() {
       <Head>
         <title>Home | dahyun</title>
       </Head>
-      <Header as="h3">베스트 상품</Header>
+      <Header as="h3" style={{ paddingTop: 40 }}>베스트 상품</Header>
       <Divider />
       <ItemList list={list} />
     </div>
